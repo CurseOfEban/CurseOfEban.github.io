@@ -32,7 +32,7 @@ function showProjects() {
     delay: 1000
   }).then(function () {
     botui.message.add({
-      content: "1. [Portfolio Website](https://github.com/your-repo)\n2. [AI Chatbot Project](https://github.com/your-repo)\n3. [Machine Learning App](https://github.com/your-repo)",
+      content: "1. [Portfolio Website]https://sites.google.com/view/cergantez/home)\n2. [AI Chatbot Project](https://github.com/your-repo)\n3. [Machine Learning App](https://github.com/your-repo)",
       delay: 2000
     });
   });
@@ -56,7 +56,7 @@ function showContactInfo() {
     delay: 1000
   }).then(function () {
     botui.message.add({
-      content: "Email: your-email@example.com\nLinkedIn: [Your Profile](https://linkedin.com/in/your-profile)",
+      content: "Email: ivanredxd@gmail.com\nLinkedIn: [Vanblue](https://linkedin.com/in/your-profile)",
       delay: 2000
     });
   });
